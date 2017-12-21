@@ -65,10 +65,11 @@
     $ python3 reportingtool.py
   ```
   2. Enter (1 , 2 or 3), For respective queries .
+  3. Again run reportingtool.py for running any other option .
 
 ### Download or Use 
 
-  *  Github Repositories : [Udacity-Porfolio](https://github.com/david-singh/udacity-portfolio/)
+  *  Github Repositories : [Log-Analysis](https://github.com/david-singh/Log-Analysis/)
 
 ### License
 
