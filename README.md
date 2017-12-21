@@ -54,11 +54,6 @@
     then 0 else 1 end)/count(log.status),2) as "Percent Error" from log group by date(time) 
     order by "Percent Error" desc;
   ```
-  | Column        | Type    |
-  | :-------      | :-------|
-  | date          | date    |
-  | Percent Error | float   |
-  
 ### Running the queries:
   1. From the vagrant directory inside the virtual machine,run reportingtool.py using:
   ```
