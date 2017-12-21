@@ -7,11 +7,11 @@
 
 ## Quick Start
 
-### PreRequisites:
+### Prerequisites:
 
-  * [Python3](https://www.python.org/)
-  * [Vagrant](https://www.vagrantup.com/)
-  * [VirtualBox](https://www.virtualbox.org/)
+  * Should have version of python **3** or above , Installed in computer ([Download Python](https://www.python.org/downloads/))
+  * Should have Vagrant installed in Computer ([Download Vagrant](https://www.vagrantup.com/))
+  * Should have Vitual-box installed in Computer([Download VirtualBox](https://www.virtualbox.org/))
 
 ### Setup Project:
 
